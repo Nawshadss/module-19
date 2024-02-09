@@ -18,4 +18,4 @@ for (let word of split) {
   console.log(joinword);
   totalLetter = totalLetter + " " + joinword;
 }
-console.log(totalLetter);
+console.log(calculateMoney(12));
